@@ -1,4 +1,4 @@
-# Documentación del Proyecto: Calculadora de Presupuesto Mensual
+# Calculadora de Presupuesto Mensual
 
 ---
 
